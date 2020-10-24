@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+A tutorial based Flutter app to learn about the basics of Flutter and Dart.
 
 ## Getting Started
 
